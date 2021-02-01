@@ -6,6 +6,6 @@
 
 **Where to find me**
 
-- [My Blog](https:/hyoau.host)
+- [Blog](https:/hyoau.host)
 - [Zhihu](https://www.zhihu.com/people/a965698)
 - [Twitter](https://twitter.com/_hyoau_)
