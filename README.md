@@ -24,24 +24,22 @@
     </td>
     <td valign="top" width="50%">
 
-      <!--START_SECTION:waka-->
-      📊 **This Week I Spent My Time On**
+<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On**
 
-      ```text
-      💬 Programming Languages:
-      Go 1 hr 57 mins ██████████████████████░░░ 90.41%
-      Other 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 9.59%
+```text
+💬 Programming Languages:
+Go 1 hr 57 mins ██████████████████████░░░ 90.41%
+Other 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 9.59%
 
-      🔥 Editors:
-      VS Code 2 hrs 10 mins █████████████████████████ 100.0%
+🔥 Editors:
+VS Code 2 hrs 10 mins █████████████████████████ 100.0%
 
-      💻 Operating System:
-      Linux 2 hrs 10 mins █████████████████████████ 100.0%
+💻 Operating System:
+Linux 2 hrs 10 mins █████████████████████████ 100.0%
 
-      ```
+```
 
-
-      <!--END_SECTION:waka-->
-    </td>
-  </tr>
+<!--END_SECTION:waka-->
+</td></tr>
 </table>
