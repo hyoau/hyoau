@@ -6,14 +6,14 @@
       <p align="center">
         <img src="https://img.shields.io/github/stars/hyoau?style=social" alt="Github stars" />
         <img src="https://img.shields.io/github/followers/hyoau?style=social" alt="Github followers" />
-        <a href="https://twitter.com/_keithnull">
+<!--         <a href="https://twitter.com/_keithnull">
           <img src="https://img.shields.io/badge/@__keithnull-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter" />
-        </a>
+        </a> -->
       </p>
       <ul>
         <li>⛄ I’m currently enjoying my last winter vacation as a student</li>
-        <li>🌱 I’m currently learning distributed systems and serverless computing</li>
-        <li>💬 Ask me about everything but no answer is promised</li>
+        <li>🌱 I’m currently learning distributed systems and serverless computing.</li>
+        <li>💬 Ask me about everything but no answer is promised.</li>
       </ul>
     </td>
     <td valign="top" width="50%">
