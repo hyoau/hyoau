@@ -4,8 +4,8 @@
   <tr>
     <td valign="center" width="50%">
       <p align="center">
-        <img src="https://img.shields.io/github/stars/keithnull?style=social" alt="Github stars" />
-        <img src="https://img.shields.io/github/followers/keithnull?style=social" alt="Github followers" />
+        <img src="https://img.shields.io/github/stars/hyoau?style=social" alt="Github stars" />
+        <img src="https://img.shields.io/github/followers/hyoau?style=social" alt="Github followers" />
         <a href="https://twitter.com/_keithnull"><img
             src="https://img.shields.io/badge/@__keithnull-1DA1F2?style=flat&logo=Twitter&logoColor=white"
             alt="Twitter" /></a>
