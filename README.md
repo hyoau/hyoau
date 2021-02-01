@@ -6,15 +6,9 @@
       <p align="center">
         <img src="https://img.shields.io/github/stars/hyoau?style=social" alt="Github stars" />
         <img src="https://img.shields.io/github/followers/hyoau?style=social" alt="Github followers" />
-        <a href="https://twitter.com/_keithnull"><img
-            src="https://img.shields.io/badge/@__keithnull-1DA1F2?style=flat&logo=Twitter&logoColor=white"
-            alt="Twitter" /></a>
-        <a href="https://www.linkedin.com/in/wuzhengke/?locale=en_US"><img
-            src="https://img.shields.io/badge/@wuzhengke-0073b1?style=flat&logo=LinkedIn&logoColor=white"
-            alt="Linkedin" /></a>
-        <a href="https://www.douban.com/people/keith1"><img
-            src="https://img.shields.io/badge/@keith1-007722?style=flat&logo=Douban&logoColor=white" alt="Douban" /></a>
-        <img src="https://visitor-badge.glitch.me/badge?page_id=keithnull" alt="vistors" />
+        <a href="https://twitter.com/_keithnull">
+          <img src="https://img.shields.io/badge/@__keithnull-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter" />
+        </a>
       </p>
       <ul>
         <li>⛄ I’m currently enjoying my last winter vacation as a student</li>
