@@ -1,39 +1,19 @@
-<h2 align="center"> Hi there 👋, I'm hyoau. </h2>
+#### Hi there 👋, I am [hyoau](https://hyoau.host).
 
-<table>
-  <tr>
-    <td valign="center" width="50%">
-      <p align="center">
-        <img src="https://img.shields.io/github/stars/hyoau?style=social" alt="Github stars" />
-        <img src="https://img.shields.io/github/followers/hyoau?style=social" alt="Github followers" />
-<!--         <a href="https://twitter.com/_keithnull">
-          <img src="https://img.shields.io/badge/@__keithnull-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter" />
-        </a> -->
-      </p>
-      <ul>
-        <li>⛄ I’m currently enjoying my last winter vacation as a student</li>
-        <li>🌱 I’m currently learning distributed systems and serverless computing.</li>
-        <li>💬 Ask me about everything but no answer is promised.</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
+> There's no such thing as perfect writing, just like there's no such thing as perfect despair.
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On**
+<img src="https://github-readme-stats.mrdulin.vercel.app/api?username=hyoau&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af" align="right">
 
-```text
-💬 Programming Languages:
-Go 1 hr 57 mins ██████████████████████░░░ 90.41%
-Other 12 mins ██░░░░░░░░░░░░░░░░░░░░░░░ 9.59%
+**Where to find me**
 
-🔥 Editors:
-VS Code 2 hrs 10 mins █████████████████████████ 100.0%
+- [My Blog](https:/hyoau.host)
+- [zhihu](https://www.zhihu.com/people/a965698)
+- [Twitter](https://twitter.com/_hyoau_)
 
-💻 Operating System:
-Linux 2 hrs 10 mins █████████████████████████ 100.0%
+**My daily development tools**
 
-```
-
-<!--END_SECTION:waka-->
-</td></tr>
-</table>
+- Thinkpad T460 (Windows 10 20H1)
+- Develop Server (Ubuntu 16.04)
+  - Gigabyte Z390 GAMING X
+  - Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz
+  - GeForce RTX 2080 Ti
