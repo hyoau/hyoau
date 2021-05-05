@@ -1,4 +1,4 @@
-#### Hi there 👋, I am [hyoau](https://hyoau.host).
+#### Hi there 👋, I am hyoau.
 
 > There's no such thing as perfect writing, just like there's no such thing as perfect despair.
 
