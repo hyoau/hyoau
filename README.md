@@ -4,4 +4,5 @@
 
 **Where to find me**
 
+- [Blog](https://hyoau.host)
 - [Zhihu](https://www.zhihu.com/people/a965698)
